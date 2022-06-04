@@ -1,3 +1,6 @@
+_________________________________________________________________________________________________________________________________________________________________________
 # classes
-just trying classes for the first time and getting a somewhat feel for them.
-cringe... ik
+Getting a feel for classes and how to use them in order to complete the project below.
+_________________________________________________________________________________________________________________________________________________________________________
+Product Inventory Project - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
+_________________________________________________________________________________________________________________________________________________________________________
